@@ -44,7 +44,7 @@ knowledge_vault/
 
 1. **Clone this repository:**
 ```bash
-git clone https://github.com/your-username/knowledge-vault.git
+git clone https://github.com/PrasannaKumar-IT/knowledge-vault.git
 cd knowledge-vault
 ```
 
